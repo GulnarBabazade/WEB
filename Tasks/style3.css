@@ -1,0 +1,95 @@
+.main-container{
+    width: 75%;
+    height: auto;
+    margin: 40px auto;
+    border:1px solid black;
+    
+}
+.navigation{
+    width: 97%;
+    margin:20px;
+    border:1px solid;
+    height: 100px;
+    text-align: center;
+}
+
+
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  
+}
+.inner-container{
+    width: 90%;
+    height: auto;
+    display: flex;
+    margin:30px;
+   
+
+
+}
+.left-container{
+  width: 35%;
+  height: auto;
+  border:1px solid;
+  margin-left: 40px;
+  margin-right: 30px;
+}
+.main{
+    width: 65%;
+    height:auto;
+    border:1px solid black;
+    margin-left: 60px;
+    margin-right: 20px;
+}
+.project{
+    width: 90%;
+    margin:50px auto;
+    height: 900px;
+    border:  1px solid;
+    border-radius: 20px;
+}
+.inner-left{
+    width: 90%;
+    margin: 10px auto;
+    height: 270px;
+    border:1px solid;
+    border-radius: 600px;
+    text-align: center;
+    padding: 10px;
+    padding-top:20px;
+}
+
+
+.events{
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+}
+
+
+form{
+    width: 75%;
+    margin: 30px auto;
+    
+   
+
+}
+input{
+    width: 80%;
+    margin: 50px 60px;
+    
+}
+label{
+    padding: 40px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button{
+    width: 100px;
+    margin: 60px 70px;
+    background-color: green;
+    font-size: 18px;
+    padding: 10px;
+}
